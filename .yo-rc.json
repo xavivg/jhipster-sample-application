@@ -1,0 +1,41 @@
+{
+  "generator-jhipster": {
+    "applicationType": "monolith",
+    "gitCompany": "",
+    "baseName": "Hobbyger",
+    "packageName": "com.hobbyger.com",
+    "packageFolder": "com/hobbyger/com",
+    "serverPort": 8080,
+    "serviceDiscoveryType": false,
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "enableSwaggerCodegen": false,
+    "messageBroker": false,
+    "buildTool": "maven",
+    "useSass": false,
+    "clientPackageManager": "npm",
+    "testFrameworks": [],
+    "enableTranslation": false,
+    "nativeLanguage": "en",
+    "languages": [
+      "en"
+    ],
+    "clientFramework": "angularX",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "5.8.2",
+    "jwtSecretKey": "MGNkMDNhNmI4NmI2MmU1NDkzN2EwOTFjMDA4ZjE1MmQyZTExY2RjYTJkZGE3ZDFlYjdlNjdlOGFkMGMyM2M2NTk4MDZmNWU4YTUxN2NiNzFiMWE5ZTQ0NmZmYmFkYzZiNjY3NWEwZTE3OGUyNjM3N2ZmNTU0MzBlNDc5Yjk5Y2M=",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": []
+  },
+  "git-provider": "GitHub",
+  "git-company": "xavivg",
+  "repository-name": "jhipster-sample-application"
+}
